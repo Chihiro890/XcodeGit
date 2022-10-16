@@ -6,6 +6,7 @@
 //
 
 import UIKit
+//今日はいい天気☀
 
 class ViewController: UIViewController {
 
